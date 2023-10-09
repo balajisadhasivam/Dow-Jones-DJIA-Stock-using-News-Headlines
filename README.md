@@ -1,2 +1,2 @@
 # Dow-Jones-DJIA-Stock-using-News-Headlines
-# This project is based on a machine learning endeavor centered around sentiment analysis, specifically focusing on the Dow Jones Industrial Average (DJIA) stock market index. Sentiment analysis is a technique used to determine the sentiment or emotional tone conveyed in a text, which can be useful for making informed decisions in various domains, including finance.
+This project is based on a machine learning endeavor centered around sentiment analysis, specifically focusing on the Dow Jones Industrial Average (DJIA) stock market index. Sentiment analysis is a technique used to determine the sentiment or emotional tone conveyed in a text, which can be useful for making informed decisions in various domains, including finance.
